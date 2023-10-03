@@ -16,7 +16,8 @@ The **WhatsApp Chat Analyzer** is designed to help you gain valuable insights fr
 ## Demo
 ![image](https://github.com/Shuvambhagat/WhatsApp-Chat-Analzyer/assets/106560467/52404448-a2a5-43b4-bd6b-eec209fb1261)
 ![image](https://github.com/Shuvambhagat/WhatsApp-Chat-Analzyer/assets/106560467/c99fad69-9835-428a-9ca6-52a7c8a9530d)
-![image](https://github.com/Shuvambhagat/WhatsApp-Chat-Analzyer/assets/106560467/68f1c47a-1b83-4c47-81a3-b119650132aa)
+![image](https://github.com/Shuvambhagat/WhatsApp-Chat-Analzyer/assets/106560467/1fd8c530-0e0b-4436-84cb-feb7907ad683)
+
 
 
 
