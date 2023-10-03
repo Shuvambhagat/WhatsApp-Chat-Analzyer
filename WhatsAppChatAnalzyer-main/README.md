@@ -7,14 +7,18 @@ This repository contains the **WhatsApp Chat Analyzer** project, a tool that all
 - [Introduction](#introduction)
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 
 ## Introduction
 
 The **WhatsApp Chat Analyzer** is designed to help you gain valuable insights from your WhatsApp chats. It provides various functionalities to analyze and visualize data extracted from the chat exports. This tool allows you to explore patterns, trends, and statistics related to your conversations, helping you understand your messaging behavior and communication patterns.
 . 
+## Demo
+![image](https://github.com/Shuvambhagat/WhatsApp-Chat-Analzyer/assets/106560467/52404448-a2a5-43b4-bd6b-eec209fb1261)
+![image](https://github.com/Shuvambhagat/WhatsApp-Chat-Analzyer/assets/106560467/c99fad69-9835-428a-9ca6-52a7c8a9530d)
+![image](https://github.com/Shuvambhagat/WhatsApp-Chat-Analzyer/assets/106560467/68f1c47a-1b83-4c47-81a3-b119650132aa)
+
+
 
 ## Features
 
@@ -29,12 +33,8 @@ The **WhatsApp Chat Analyzer** is designed to help you gain valuable insights fr
 
 ## Usage
 - Export your WhatsApp chat conversation as a text file. You can find instructions on how to export chat logs on the WhatsApp website.
-- Visit the  app [website](https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/) or run the app in local environment.
 - Upload the chat text file on the server.
 - Follow the on-screen instructions to choose the desired analysis options.
-
-## Examples
-Here are a few examples of how you can use the WhatsApp Chat Analyzer tool:
 - Analyze chat statistics for a group chat over a specific time period.
 - Generate a word cloud to visualize the most frequently used words in a one-on-one conversation.
 - View active participation in a group chat among multiple participants.
