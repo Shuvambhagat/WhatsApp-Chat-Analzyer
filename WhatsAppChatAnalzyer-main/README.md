@@ -1,11 +1,6 @@
 # WhatsApp Chat Analyzer
 
-![GitHub](https://img.shields.io/github/license/karanprasadgupta/WhatsAppChatAnalzyer)
-![GitHub last commit](https://img.shields.io/github/last-commit/karanprasadgupta/WhatsAppChatAnalzyer)
-
-![WhatsApp Chat Analyzer](./demo.png)
-
-This repository contains the **WhatsApp Chat Analyzer** project, a tool that allows you to analyze and extract insights from WhatsApp chat exports. The project is developed by [Karan Prasad Gupta](https://github.com/karanprasadgupta), [Narayan Jha](https://github.com/kyayaarnarayan), and is written in Python.
+This repository contains the **WhatsApp Chat Analyzer** project, a tool that allows you to analyze and extract insights from WhatsApp chat exports. 
 
 ## Table of Contents
 
@@ -19,14 +14,7 @@ This repository contains the **WhatsApp Chat Analyzer** project, a tool that all
 ## Introduction
 
 The **WhatsApp Chat Analyzer** is designed to help you gain valuable insights from your WhatsApp chats. It provides various functionalities to analyze and visualize data extracted from the chat exports. This tool allows you to explore patterns, trends, and statistics related to your conversations, helping you understand your messaging behavior and communication patterns.
-
-The project utilizes various open-source libraries and tools. See the [`requirements.txt`](https://github.com/karanprasadgupta/WhatsAppChatAnalzyer/blob/main/requirements.txt) file for details.
-
-## Demo
-
-Check out the live demo of the WhatsAppChatAnalzyer App:  [https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/](https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/)
-
-> *If the website does not load properly, try opening it in incognito mode.*
+. 
 
 ## Features
 
@@ -37,28 +25,7 @@ Check out the live demo of the WhatsAppChatAnalzyer App:  [https://karanprasadgu
 - **Emoji Analysis**: Analyze the usage of emojis in the chat and generate insights about the most commonly used emojis.
 - **Interactive Visualization**: Utilize interactive plots and graphs to visualize data and patterns.
 
-## Installation
 
-To get a local copy of this project up and running, follow these steps:
-
-1. Clone this repository to your local machine using the following command:
-
-   ```shell
-   git clone https://github.com/karanprasadgupta/WhatsAppChatAnalzyer.git
-   ```
-2. Navigate to the project directory:
-   ``` shell
-   cd WhatsAppChatAnalzyer
-   ```
-3. Install the required dependencies:
-   ``` shell
-   pip install -r requirements.txt
-   ```
-4. Running the App:
-   ``` shell
-   streamlit run main.py
-   ```
-   This will start the app in the local environment
 
 ## Usage
 - Export your WhatsApp chat conversation as a text file. You can find instructions on how to export chat logs on the WhatsApp website.
@@ -73,5 +40,4 @@ Here are a few examples of how you can use the WhatsApp Chat Analyzer tool:
 - View active participation in a group chat among multiple participants.
 
 > The WhatsAppChatAnalzyer App was developed just for learning purposes.
-> 
 > Feel free to customize and enhance the App according to your needs. Happy WhatsApp chat analysis!
